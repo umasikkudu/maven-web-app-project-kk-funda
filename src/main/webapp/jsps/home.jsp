@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center"> Hi to Uma</h1>
-<h1 align="center"> KK FUNDA</h1>
+<h1 align="center"> Hi to UMA</h1>
+<h1 align="center"> UMA SIKKUDU</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
