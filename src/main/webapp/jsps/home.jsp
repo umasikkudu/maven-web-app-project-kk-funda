@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center"> Hi UMASIKKUDU</h1>
+<h1 align="center"> Hi UMASikkudu</h1>
 <h1 align="center"> UMA SIKKUDU</h1>
 <hr>
 <br>
